@@ -2,7 +2,7 @@
 
 Below is a summary of projects / assignments I have worked on whilst enrolled in the 2023 Cambride Spark Data Analyst Bootcamp. The bootcamp divides weekly modules into a mixture of class learning and assignments. This portfolio will demonstrate what I have learnt so far and display further projects I have undertaken, after the course has finised.  It is ordered so my recent projects / assignments appear first.
 
-## [Project 4: Python Functions & Conditionals]()
+## [Project 4: Python Functions & Conditionals](https://github.com/adamgreatorex01/portfolio/blob/main/functions%20and%20conditionals%20assignment.ipynb)
 - The assignment required me to define functions and then use those functions to solve problems with some datasets.
 - The goal was for me to Instantiate and Develop Python Functions and Methods
 - During this assignment I developed knowlege in:
