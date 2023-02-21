@@ -2,6 +2,13 @@
 
 Below is a summary of projects / assignments I have worked on whilst enrolled in the 2023 Cambride Spark Data Analyst Bootcamp. The bootcamp divides weekly modules into a mixture of class learning and assignments. This portfolio will demonstrate what I have learnt so far and display further projects I have undertaken, after the course has finised.  It is ordered so my recent projects / assignments appear first.
 
+## [Project 3: Coronavirus Dataset - Functions Assignment](https://github.com/adamgreatorex01/portfolio/blob/main/functions%20coronavirus%20data%20set.ipynb)
+- The goal of this assignment was for me to make a set of functions that can be re-used on any CSV file which is in the same format as corona.csv, thus if corona.csv were updated, all of my functions could be re-used to gather the same metrics as before. This project encouarged me to learn how to write re-usable functions and practice skills in:
+- Using the .zip function
+- Adding comments within functions to explain what is happening and document my own thought process
+- Using for loops to iterate through elements
+- Utilising conditional statements to to get required values
+
 ## [Project 2: Vehicle Dataset](https://github.com/adamgreatorex01/portfolio/blob/main/Vehicle%20Dataset.ipynb) 
 - In this project, I analysed a dataset about vehicles and their characteristics. The goal of this project was to preprocess and analyse the data using the pandas library. 
 - As this was the 2nd part of using pandas, it was important that I recapped over the previous sessions content and applied these skills into the new dataset. I also explored questions using pandas documentation and visting stack overflow.
