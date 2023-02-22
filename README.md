@@ -3,6 +3,13 @@
 Below is a summary of projects / assignments I have worked on whilst enrolled in the 2023 Cambride Spark Data Analyst Bootcamp. The bootcamp divides weekly modules into a mixture of class learning and assignments. This portfolio will demonstrate what I have learnt so far and display further projects I have undertaken, after the course has finised.  It is ordered so my recent projects / assignments appear first.
 Please see project links for a **full list of skills** and demonstration of my work.
 
+## [Project 7: Analysis of Energy Demand](https://github.com/adamgreatorex01/portfolio/blob/main/Analysis%20of%20Energy%20Demand.ipynb)
+The assignment focuses on data visualisation using pandas library. In this assignment, I will be analysing a dataset from the UK government detailing energy consumption across various sectors of industry. This assignment will focus on the transformation of data and subsequent creation of charts using pandas. During this project I learnt and recapped the following skills:
+- Researching how to change data types for multiple columns in one go, such as creating a dictionary then calling this in the .astype() method
+- Creating a new df, based on using the .groupby() method
+- Create a horizontal and stacked bar chart from the 'use' DataFrame, using the .plot() method
+- Create a scatter plot of a column vs a column, to see the relationship between the two values
+
 ## [Project 6: Coronavirus World Data Analysis](https://github.com/adamgreatorex01/portfolio/blob/main/Coronavirus%20World%20Data%20Analysis.ipynb)
 In this assignment, I will be analysing Coronavirus data from 'Our World in Data'. The goal of this assignment is to preprocess and analyse the data using the pandas library in Python. Within this assignment, I learnt skills and recapped previous knowledge in:
 - Creating a function that accepts 3 arguments and returns a value from the first row for a given location and metric
