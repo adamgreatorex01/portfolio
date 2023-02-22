@@ -9,6 +9,7 @@ The assignment focuses on data visualisation using pandas library. In this assig
 - Creating a new df, based on using the .groupby() method
 - Create a horizontal and stacked bar chart from the 'use' DataFrame, using the .plot() method
 - Create a scatter plot of a column vs a column, to see the relationship between the two values
+![](https://github.com/adamgreatorex01/portfolio/blob/main/images/Natural%20Gas%20v%20Total%20Scatter%20Plot.png)
 
 ## [Project 6: Coronavirus World Data Analysis](https://github.com/adamgreatorex01/portfolio/blob/main/Coronavirus%20World%20Data%20Analysis.ipynb)
 In this assignment, I will be analysing Coronavirus data from 'Our World in Data'. The goal of this assignment is to preprocess and analyse the data using the pandas library in Python. Within this assignment, I learnt skills and recapped previous knowledge in:
