@@ -4,12 +4,13 @@ Below is a summary of projects / assignments I have worked on whilst enrolled in
 Please see project links for a **full list of skills** and demonstration of my work.
 
 ## [Project 8: Analysis of British road network use](https://github.com/adamgreatorex01/portfolio/blob/main/British%20Road%20Network%20Use.ipynb)
-The assignment will focus on data aggregation and grouping using Pandas library, followed by the creation of plots using Bokeh library. In this assignment, I will be analysing a dataset from the UK Department for Transport on the road network and use by different types of vehicles from 1993 - 2018. During this projectt I developed my competence in the following:
+The assignment will focus on data aggregation and grouping using Pandas library, followed by the creation of plots using Bokeh library. **(see plots in image folder)** In this assignment, I will be analysing a dataset from the UK Department for Transport on the road network and use by different types of vehicles from 1993 - 2018. During this project I developed my competence in the following: 
  - Create a new DataFrame which has a specific row index and specific columns
  - using the .pivot method which returns a reshaped df organized by the given row index / column values.
  - Adjusting properties to a figure to improve readability
  - Setting a base index to inspect the growth over time of a variable relative to some starting value
  - Demonstrating use of plots, created through the Bokeh library
+ ![](https://github.com/adamgreatorex01/portfolio/blob/main/images/bokeh%203%20vehicle%20density%20on%20british%20roads%20over%20time.png)
  
 ## [Project 7: Analysis of Energy Demand](https://github.com/adamgreatorex01/portfolio/blob/main/Analysis%20of%20Energy%20Demand.ipynb)
 The assignment focuses on data visualisation using pandas library. In this assignment, I will be analysing a dataset from the UK government detailing energy consumption across various sectors of industry. This assignment will focus on the transformation of data and subsequent creation of charts using pandas. During this project I learnt and recapped the following skills:
