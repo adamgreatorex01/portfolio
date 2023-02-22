@@ -1,8 +1,14 @@
 # Adam Greatorex Portfolio
 
-Below is a summary of projects / assignments I have worked on whilst enrolled in the 2023 Cambride Spark Data Analyst Bootcamp. The bootcamp divides weekly modules into a mixture of class learning and assignments. This portfolio will demonstrate what I have learnt so far and display further projects I have undertaken, after the course has finised.  It is ordered so my recent projects / assignments appear first.
+Below is a summary of projects / assignments I have worked on whilst enrolled in the 2023 Cambride Spark Data Analyst Bootcamp. The bootcamp divides weekly modules into a mixture of class learning and assignments. This portfolio will demonstrate what I have learnt and will also display further projects I have undertaken, after the course has finised. It is ordered as such, that my recent projects appear first.
 Please see project links for a **full list of skills** and demonstration of my work.
 
+## [Project 8: Analysis of British road network use](https://github.com/adamgreatorex01/portfolio/blob/main/British%20Road%20Network%20Use.ipynb)
+The assignment will focus on data aggregation and grouping using Pandas library, followed by the creation of plots using Bokeh library. In this assignment, I will be analysing a dataset from the UK Department for Transport on the road network and use by different types of vehicles from 1993 - 2018. During this projectt I developed my competence in the following:
+ - Create a new DataFrame which has a specific row index , and specific columns using the .pivot method which returns a reshaped df organized by given index / column values.
+ - Adjusting properties to the figure to improve readability
+ - Setting a base index to inspect the growth over time of a variable relative to some starting value
+ 
 ## [Project 7: Analysis of Energy Demand](https://github.com/adamgreatorex01/portfolio/blob/main/Analysis%20of%20Energy%20Demand.ipynb)
 The assignment focuses on data visualisation using pandas library. In this assignment, I will be analysing a dataset from the UK government detailing energy consumption across various sectors of industry. This assignment will focus on the transformation of data and subsequent creation of charts using pandas. During this project I learnt and recapped the following skills:
 - Researching how to change data types for multiple columns in one go, such as creating a dictionary then calling this in the .astype() method
