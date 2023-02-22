@@ -1,12 +1,12 @@
 # Adam Greatorex Portfolio
 
 Below is a summary of projects / assignments I have worked on whilst enrolled in the 2023 Cambride Spark Data Analyst Bootcamp. The bootcamp divides weekly modules into a mixture of class learning and assignments. This portfolio will demonstrate what I have learnt so far and display further projects I have undertaken, after the course has finised.  It is ordered so my recent projects / assignments appear first.
-Please see project links for a full list of skills and demonstration of my work.
+Please see project links for a **full list of skills** and demonstration of my work.
 
 ## [Project 6: Coronavirus World Data Analysis](https://github.com/adamgreatorex01/portfolio/blob/main/Coronavirus%20World%20Data%20Analysis.ipynb)
 In this assignment, I will be analysing Coronavirus data from 'Our World in Data'. The goal of this assignment is to preprocess and analyse the data using the pandas library in Python. Within this assignment, I learnt skills and recapped previous knowledge in:
 - Creating a function that accepts 3 arguments and returns a value from the first row for a given location and metric
-- Creating another reusalble function which returns the average value for the given metric for a given list of countries
+- Creating another reusable function which returns the average value for the given metric for a given list of countries
 - Returning a specific column based on a specific conditon, then taking the first value in that series to perform a calculation
 
 ## [Project 5: FTSE Market Summary & Portfolio Analysis](https://github.com/adamgreatorex01/portfolio/blob/main/ftse%20100%20analysis.ipynb)
