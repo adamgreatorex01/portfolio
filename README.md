@@ -10,8 +10,9 @@ The assignment will focus on data aggregation and grouping using Pandas library,
  - Adjusting properties to a figure to improve readability
  - Setting a base index to inspect the growth over time of a variable relative to some starting value
  - Demonstrating use of plots, created through the Bokeh library
- ![](https://github.com/adamgreatorex01/portfolio/blob/main/images/bokeh%203%20vehicle%20density%20on%20british%20roads%20over%20time.png)
  
+ <img src="images/bokeh 3 vehicle density on british roads over time.png">
+
 ## [Project 7: Analysis of Energy Demand](https://github.com/adamgreatorex01/portfolio/blob/main/Analysis%20of%20Energy%20Demand.ipynb)
 The assignment focuses on data visualisation using pandas library. In this assignment, I will be analysing a dataset from the UK government detailing energy consumption across various sectors of industry. This assignment will focus on the transformation of data and subsequent creation of charts using pandas. During this project I learnt and recapped the following skills:
 - Researching how to change data types for multiple columns in one go, such as creating a dictionary then calling this in the .astype() method
