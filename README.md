@@ -11,7 +11,7 @@ Name, Fair Market Total Value and number of bedrooms.  During this project, I ca
  - Create a function that takes in 2 paramters and retuns a scatter plot with the given properties contained within the function
  - Create a seaborn .violinplot() to depict summary statistics and the density of each variable.
 
-## [Project 8: Analysis of British road network use](https://github.com/adamgreatorex01/portfolio/blob/main/British%20Road%20Network%20Use.ipynb)
+## [Project 8: Analysis of British Road Network Use](https://github.com/adamgreatorex01/portfolio/blob/main/British%20Road%20Network%20Use.ipynb)
 The assignment will focus on data aggregation and grouping using Pandas library, followed by the creation of plots using Bokeh library. **(see plots in image folder)** In this assignment, I will be analysing a dataset from the UK Department for Transport on the road network and use by different types of vehicles from 1993 - 2018. During this project I developed my competence in the following: 
  - Create a new DataFrame which has a specific row index and specific columns
  - using the .pivot method which returns a reshaped df organized by the given row index / column values.
