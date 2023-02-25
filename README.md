@@ -1,6 +1,6 @@
 # Adam Greatorex Portfolio
 
-Below is a summary of projects / assignments I have worked on, whilst enrolled in the 2023 Cambridge Spark Data Analyst Bootcamp. The bootcamp divides weekly modules into a mixture of class learning and set assignments. This portfolio will demonstrate the skills I have acquired throughout the course and will further display my own projects post course completion. It is ordered as such, that my recent projects appear first.
+Below is a summary of projects / assignments I have worked on, whilst enrolled in the 2023 Cambridge Spark Data Analyst Bootcamp. The bootcamp divides weekly modules into a mixture of class learning and set assignments. This portfolio will demonstrate the skills I have acquired throughout the course and will further display my own projects, post course completion. It is ordered as such, that my recent projects appear first.
 Please see project links for a **full list of skills** and demonstration of my work.
 
 ## [Project 9: Property Dataset Analysis]()
