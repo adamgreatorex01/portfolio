@@ -3,13 +3,15 @@
 Below is a summary of projects / assignments I have worked on, whilst enrolled in the 2023 Cambridge Spark Data Analyst Bootcamp. The bootcamp divides weekly modules into a mixture of class learning and set assignments. This portfolio will demonstrate the skills I have acquired throughout the course and will further display my own projects, post course completion. It is ordered as such, that my recent projects appear first.
 Please see project links for a **full list of skills** and demonstration of my work.
 
-## [Project 9: Property Dataset Analysis](images/property data set.png)
+## [Project 9: Property Dataset Analysis]()
 The assignment will focus on pre-processing data using the Pandas library, followed by the creation of plots using matplotlib and seaborn libraries. The dataset contains records for Allegheny County Office of Property Assessmemt, with 47 columns and fields such as Property Location City
 Name, Fair Market Total Value and number of bedrooms.  During this project, I carried out analysis and developed skills in the following:
  - Creating a copied data frame, changing column data types to perform logical conditions 
  - Grouping subsquent data in order to conduct aggregation functions on columns and then plot these findings in a line chart
  - Create a function that takes in 2 paramters and retuns a scatter plot with the given properties contained within the function
  - Create a seaborn .violinplot() to depict summary statistics and the density of each variable.
+
+<img src="images/property data set.png">
 
 ## [Project 8: Analysis of British Road Network Use](https://github.com/adamgreatorex01/portfolio/blob/main/British%20Road%20Network%20Use.ipynb)
 The assignment will focus on data aggregation and grouping using Pandas library, followed by the creation of plots using Bokeh library. **(see plots in image folder)** In this assignment, I will be analysing a dataset from the UK Department for Transport on the road network and use by different types of vehicles from 1993 - 2018. During this project I developed my competence in the following: 
