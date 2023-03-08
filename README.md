@@ -3,7 +3,7 @@
 Below is a summary of projects / assignments I have worked on, whilst enrolled in the 2023 Cambridge Spark Data Analyst Bootcamp. The bootcamp divides weekly modules into a mixture of class learning and set assignments. This portfolio will demonstrate the skills I have acquired throughout the course and will further display my own projects, post course completion. It is ordered as such, that my recent projects appear first.
 Please see project links for a **full list of skills** and demonstration of my work.
 
-## [Capstone Project: Streaming Service Recommendation - Netflix DataSet]()
+## [Capstone Project: Streaming Service Recommendation - Netflix DataSet](https://github.com/adamgreatorex01/portfolio/blob/main/CS_Streaming_report%20(3).ipynb)
 I put together all the skills and that I had learnt and more into my last assignment. 
 
 ## [Project 9: Property Dataset Analysis](https://github.com/adamgreatorex01/portfolio/blob/main/Property%20Dataset.ipynb)
