@@ -4,7 +4,8 @@ Below is a summary of projects / assignments I have worked on, whilst enrolled i
 Please see project links for a **full list of skills** and demonstration of my work.
 
 ## [Capstone Project: Streaming Service Recommendation - Netflix DataSet](https://github.com/adamgreatorex01/portfolio/blob/main/CS_Streaming_report%20(3).ipynb)
-In my last assignmentI put together all the skills and that I had learnt and more!. 
+In my last assignmentI put together all the skills and that I had learnt and more!
+<img src="images/movie_length.png">
 
 ## [Project 9: Property Dataset Analysis](https://github.com/adamgreatorex01/portfolio/blob/main/Property%20Dataset.ipynb)
 The assignment will focus on pre-processing data using the Pandas library, followed by the creation of plots using matplotlib and seaborn libraries. The dataset contains records for Allegheny County Office of Property Assessmemt, with 47 columns and fields such as Property Location City
