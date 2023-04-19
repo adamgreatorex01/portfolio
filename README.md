@@ -13,6 +13,8 @@ Throughout this project, I learnt and built upon the following skills:
  - Outlier detection, through writing a function that deteremines/calculates upper and lower quartiles
  - Using a box plot to compare ratings
  - Review distributions and graphs
+ 
+<img src="images/chocolate_img.png">
 
 ## [Project 9: Property Dataset Analysis](https://github.com/adamgreatorex01/portfolio/blob/main/Property%20Dataset.ipynb)
 The assignment will focus on pre-processing data using the Pandas library, followed by the creation of plots using matplotlib and seaborn libraries. The dataset contains records for Allegheny County Office of Property Assessmemt, with 47 columns and fields such as Property Location City
