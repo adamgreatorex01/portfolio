@@ -6,6 +6,8 @@ Below is a summary of projects / assignments I have worked on, whilst enrolled i
 This was my own project where I analysed the London Crime and Boroughs Dataset from BigQuery. In this notebook SQL queries were performed to extract data from the dataset, and then visualised through python libraries. The general analysis and questions asked were merely for me to practice sql and vizualtion tools, hence the questions and answers may not have real life application, order or meaning.
 <img src="images/crime rate.png">
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## [Capstone Project: Streaming Service Recommendation - Netflix DataSet](https://github.com/adamgreatorex01/portfolio/blob/main/CS_Streaming_report%20(3).ipynb)
 In my last assignment I put together all the skills I had learnt and more!
