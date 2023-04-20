@@ -2,7 +2,7 @@
 
 Below is a summary of projects / assignments I have worked on, whilst enrolled in the 2023 Cambridge Spark Data Analyst Bootcamp. The bootcamp divides weekly modules into a mixture of class learning and set assignments. This portfolio will demonstrate the skills I have acquired throughout the course and will further display my own projects, post course completion. It is ordered as such, that my recent projects appear first.
 
-## [Own project: London Crime Analysis using SQL and Python]()
+## [Own project: London Crime Analysis using SQL and Python](https://github.com/adamgreatorex01/portfolio/blob/main/london-crime-bigquery-adam.ipynb)
 This was my own project where I analysed the London Crime and Boroughs Dataset from BigQuery. In this notebook SQL queries were performed to extract data from the dataset, and then visualised through python libraries. The general analysis and questions asked were merely for me to practice sql and vizualtion tools, hence the questions and answers may not have real life application, order or meaning.
 <img src="images/crime rate.png">
 
