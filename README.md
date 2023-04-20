@@ -9,7 +9,7 @@ This was my own project where I analysed the London Crime and Boroughs Dataset f
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## [Capstone Project: Streaming Service Recommendation - Netflix DataSet](https://github.com/adamgreatorex01/portfolio/blob/main/CS_Streaming_report%20(3).ipynb)
+## [Capstone Project: Streaming Service Recommendation - Netflix DataSet](https://www.kaggle.com/code/adamgreatorex/london-crime-bigquery-adam)
 In my last assignment I put together all the skills I had learnt and more!
 <img src="images/movie_length.png">
 
